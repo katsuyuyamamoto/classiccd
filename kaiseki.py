@@ -144,7 +144,8 @@ if __name__ == '__main__':
     file_pass = 'e:\\classiccd\\'
     filename_doucsv = file_pass + '交響曲_同.csv'
     filename_doutxt = file_pass + '同処理.txt'
-    filename_doudoutxt = file_pass + '同同.txt'
+    filename_doudoutxt = file_pass + 'doudou
+    .txt'
     filename_mototxt = file_pass + 'クラシック加工済み.txt'
     #
 
